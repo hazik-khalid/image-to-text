@@ -1,1 +1,1 @@
-# Turn image into ascii art with python
+# Turn image into ascii art with python3
